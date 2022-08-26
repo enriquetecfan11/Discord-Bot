@@ -1,7 +1,7 @@
 {
-    "name": "discord-js-v14-template",
+    "name": "TecfanBot Discord",
     "version": "1.0.5",
-    "description": "A Discord bot template using discord.js v14 and Javascript.",
+    "description": "My own discord bot made discord.js v14 and Javascript.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,16 +27,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Munz1211/DISCORD-JS-V14-TEMPLATE.git"
+        "url": "https://github.com/enriquetecfan11/tecfanbot-discord"
     },
-    "keywords": [
-        "discord js template v14",
-        "discord template v14"
-    ],
-    "author": "Munz1211",
+    "author": "Enrique Rodriguez Vela",
     "license": "GPL-3.0",
-    "bugs": {
-        "url": "https://github.com/Munz1211/DISCORD-JS-V14-TEMPLATE/issues"
-    },
-    "homepage": "https://github.com/Munz1211/DISCORD-JS-V14-TEMPLATE#readme"
+    "homepage": "https://github.com/enriquetecfan11/tecfanbot-discord"
 }
